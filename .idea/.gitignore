@@ -1,3 +1,6 @@
+*.html
+*.xml
+
 # Compiled class file
 *.class
 
